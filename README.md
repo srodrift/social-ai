@@ -1,5 +1,5 @@
-k# ✨ EventEcho
-
+✨ EventEcho
+ttps://social-ai-9wxta9yxhb8fyg8yzqfgrd.streamlit.app
 EventEcho transforms your event notes into polished, platform-ready social posts for LinkedIn, X, and Instagram.  
 Built at GitHub Hack Night using FriendliAI for fast LLM inference and Comet Opik for observability.
 

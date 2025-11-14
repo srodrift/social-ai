@@ -58,6 +58,12 @@ Streamlit interface with platform buttons to post directly.
 
 ---
 
+## 🌐 Live App
+
+Run EventEcho instantly in your browser:
+
+👉 https://social-ai-9wxta9yxhb8fyg8yzqfgrd.streamlit.app
+
 ## 📦 Installation
 
 Clone the repo:

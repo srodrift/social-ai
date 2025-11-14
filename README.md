@@ -1,4 +1,4 @@
-# ✨ Event Social Post Maker
+# ✨ EventEcho
 
 Transform event notes or transcripts into polished social media posts for **LinkedIn**, **Twitter/X**, and **Instagram** in seconds.
 
@@ -10,7 +10,7 @@ This project was built for the GitHub Hack Night using **Friendli AI** for fast 
 
 After attending any event, workshop, conference, or tech meetup, users often want to share a thoughtful recap. But writing posts takes time.
 
-**Event Social Post Maker** solves that.
+**Event Echo** solves that.
 
 You paste your:
 - Event description  
